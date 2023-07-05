@@ -15,6 +15,28 @@
 5. App in test environment (on port 8080) is using H2 in-memory database. 
 6. For backend repository, please refer to https://github.com/acetay/Volunteer_Management_System_VMS
 
+## Screenshots (Proof-of-concept)
+
+### Home Page:
+![My Image](HomePage.png)
+
+### Volunteer Signup:
+![My Image](SignupPage.png)
+
+### Volunteer's Calendar and Scheduler:
+![My Image](VolunteerScheduler.png)
+
+### Admin Dashboard:
+![My Image](Dashboard.png)
+
+### Profile Search Page:
+![My Image](VolunteerSearch.png)
+
+## Profile Page
+![My Image](VolunteerProfilePage.png)
+
+
+
 ## Team Members
 
 - [Jonathan](https://github.com/goodwill80 "jonathan's github")
