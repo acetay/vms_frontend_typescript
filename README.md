@@ -19,39 +19,6 @@ Live Link coming soon!
 5. App in test environment (on port 8080) is using H2 in-memory database. 
 6. For backend repository, please refer to https://github.com/goodwill80/Volunteer_Management_System_VMS_Backend
 
-
-## Screenshots (Proof-of-concept)
-
-### Home Page:
-![My Image](HomePage.png)
-
-### Volunteer Signup:
-![My Image](SignupPage.png)
-
-### Volunteer's Calendar and Scheduler:
-![My Image](VolunteerScheduler.png)
-
-### Admin Dashboard:
-![My Image](Dashboard.png)
-
-### Profile Search Page:
-![My Image](VolunteerSearch.png)
-
-## Profile Page
-![My Image](VolunteerProfilePage.png)
-
-
-
-
-### Relational Diagrams
-![My Image](RelationalDiagrams.png)
-
-### Authentication & Authorization Flow between front-end and backend
-1. Firebase Auth for authentication and authorization.
-2. Setup Security Filter Chain and Firbase filter to verify all requests which require JWT token.
-
-![My Image](Auth_process.png)
-
 ## Team Members
 
 - [Jonathan](https://github.com/goodwill80 "jonathan's github")
