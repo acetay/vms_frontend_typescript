@@ -32,7 +32,7 @@ function CalendarComponent({
           htmlFor="my-modal-4"
           className="btn btn-xs btn-error text-white text-xs"
         >
-          Set/Edit Avail
+          Set Avail
         </label>
       </div>
       <div className="w-[350px]">

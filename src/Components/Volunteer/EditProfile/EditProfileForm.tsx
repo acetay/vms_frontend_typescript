@@ -281,7 +281,7 @@ function EditProfileForm({
           onClick={submitHandlerToEdit}
           className="btn btn-secondary btn-sm"
         >
-          Submit
+          Edit
         </button>
       </div>
     </div>
