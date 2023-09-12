@@ -12,4 +12,3 @@ COPY . .
 
 CMD ["npm", "start"]
 
-# docker run -p 3001:3001 goodwill80/vmsfrontend
